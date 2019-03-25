@@ -1,0 +1,6 @@
+MAIL_DRIVER=mailgun
+MAIL_HOST=smtp.mailgun.org
+MAIL_PORT=25
+MAIL_USERNAME=postmaster@sandboxc258eff66ca44346a247ff1567d4f243.mailgun.org
+MAIL_PASSWORD=df575aa4c23eb9871fb8898ba3b7df37-059e099e-31b24058
+MAIL_ENCRYPTION=false
